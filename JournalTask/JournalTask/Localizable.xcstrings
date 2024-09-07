@@ -1,0 +1,113 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Article Details" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفاصيل المقال"
+          }
+        }
+      }
+    },
+    "Invalid response from the server. Please try again or contact support." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استجابة غير صالحة من الخادم. يرجى المحاولة مرة أخرى أو الاتصال بالدعم."
+          }
+        }
+      }
+    },
+    "NY Times Articles" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مقالات نيويورك تايمز"
+          }
+        }
+      }
+    },
+    "Ok" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حسنا"
+          }
+        }
+      }
+    },
+    "Read Full Article" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اقرأ المقال كاملا"
+          }
+        }
+      }
+    },
+    "searchForArticle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البحث عن المقال"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search For Article"
+          }
+        }
+      }
+    },
+    "Server Error" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خطأ في الخادم"
+          }
+        }
+      }
+    },
+    "The data received from the server was invalid. Please try again or contact support." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البيانات المستلمة من الخادم غير صالحة. يرجى المحاولة مرة أخرى أو الاتصال بالدعم."
+          }
+        }
+      }
+    },
+    "There is an error trying to reach the server. If this persists, please contact support." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حدث خطأ أثناء محاولة الوصول إلى الخادم. إذا استمر هذا الخطأ، يرجى الاتصال بالدعم."
+          }
+        }
+      }
+    },
+    "Unable to complete your request at this time. Please check your internet connection." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا يمكن إكمال طلبك في الوقت الحالي. يرجى التحقق من اتصالك بالإنترنت."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
